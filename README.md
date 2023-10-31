@@ -51,6 +51,7 @@ Selanjutnya uraikanlah seluruh variabel atau fitur pada data. Sebagai contoh:
 ```dtypes: float64(11), object(1)```
 
 Visualisasi dari jumlah data kualitas wine:
+
 ![image](https://github.com/fauzanm2211/kualitas-wine/assets/149327555/2f93c5a2-098e-4737-a11c-e41344b95d06)
 
 ## Data Preparation
