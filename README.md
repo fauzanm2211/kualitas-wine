@@ -51,6 +51,10 @@ Selanjutnya uraikanlah seluruh variabel atau fitur pada data. Sebagai contoh:
 ```dtypes: float64(11), object(1)```
 
 ## Data Preparation
+Visualisasi dari jumlah data kualitas wine:
+![image](https://github.com/fauzanm2211/kualitas-wine/assets/149327555/2f93c5a2-098e-4737-a11c-e41344b95d06)
+
+
 Pada dasarnya semua atribut yang akan digunakan sudah sesuai dengan kebutuhan algoritma yang dipakai, hanya saja terdapat data duplikat yang berjumlah 24 data yang mana harus di hapus:
 ```
 df = df.drop_duplicates()
